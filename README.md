@@ -70,7 +70,7 @@ Here's how you can get this bad boy up and running:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/clift0001/e_moni
+   git clone https://github.com/clift0001/e_moni.git
    ```
 2. Navigate to the project folder:
    ```bash
